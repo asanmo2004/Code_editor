@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Are you tired of sending code snippets back and forth, struggling to debug and collaborate with your team? Look no further! **Sync Code** is here to revolutionize the way you code together. This powerful and intuitive collaborative code editor is designed to empower developers, and teams to work seamlessly in real-time, regardless of their location. With **Sync Code**, you can code together, debug together, and ship faster, together.
+Are you tired of sending code snippets back and forth, struggling to debug and collaborate with your team? Look no further! **Pair Code** is here to revolutionize the way you code together. This powerful and intuitive collaborative code editor is designed to empower developers, and teams to work seamlessly in real-time, regardless of their location. With **Pair Code**, you can code together, debug together, and ship faster, together.
 
 ## Features
 
@@ -15,6 +15,7 @@ Are you tired of sending code snippets back and forth, struggling to debug and c
 - Users can leave the room and rejoin later to continue editing
 - Joining & leaving of users is also reflected in real time
 
+Explore PairCode: https://mypaircode.vercel.app/
 ### Prerequisites
 
 #### For running via Docker
