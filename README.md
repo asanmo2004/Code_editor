@@ -1,4 +1,4 @@
-# Sync Code: Realtime Collaborative Code Editor
+# Pair Code: Realtime Collaborative Code Editor
 
 ## Introduction
 
